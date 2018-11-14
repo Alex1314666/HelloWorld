@@ -7,5 +7,11 @@ This repository is for me, as a beginner of GitHub, to test the basic function o
 - regular txt
 - regular txt
 ### Third
+`
+public class HelloWorld()
+{
+  System.out.println("Hello World!");
+}
+`
 #### fourth
 ##### fifth
