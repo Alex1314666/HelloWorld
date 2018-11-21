@@ -15,3 +15,5 @@ public class HelloWorld()
   System.out.println("Hello World!");
 }
 `
+## 11.21
+1. try push an ADTlist code in C
