@@ -16,4 +16,4 @@ public class HelloWorld()
 }
 `
 ## 11.21
-1. try push an ADTlist code in C++
+1. push an implement ADTlist.h code in C++
