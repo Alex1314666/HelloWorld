@@ -8,7 +8,8 @@ This repository is for me, as a beginner of GitHub, to test the basic function o
     - git commit: to hand in
     - git log: check
     - git push: updates
-3.`
+3.
+`
 public class HelloWorld()
 {
   System.out.println("Hello World!");
